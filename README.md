@@ -25,10 +25,10 @@ $ git clone https://github.com/Clone-WhatsApp
 $ cd Clone-WhatsApp
 
 # Instale as dependências com yarn
-$ yarn add
+$ npm install
 
 # Start the project
-$ yarn dev
+$ npm start
 
 # A aplicação inciará na porta:3000 - acesse <http://localhost:3000>
 ```
