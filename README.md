@@ -21,8 +21,8 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/joaoygo/nlw-04
-$ cd nlw-04
+$ git clone https://github.com/Clone-WhatsApp
+$ cd Clone-WhatsApp
 
 # Instale as dependências com yarn
 $ yarn add
