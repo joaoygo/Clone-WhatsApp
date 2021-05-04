@@ -32,9 +32,9 @@ $ yarn dev
 
 # A aplicação inciará na porta:3000 - acesse <http://localhost:3000>
 ```
-![mod1](https://github.com/joaoygo/Clone-WhatsApp/blob/main/public/mod1.PNG)
-![mod2](https://github.com/joaoygo/Clone-WhatsApp/blob/main/public/mod2.PNG)
-![mod3](https://github.com/joaoygo/Clone-WhatsApp/blob/main/public/mod3.PNG)
+![Img-Login](https://github.com/joaoygo/Clone-WhatsApp/blob/main/public/mod1.png)
+![Img-Usuario-1](https://github.com/joaoygo/Clone-WhatsApp/blob/main/public/mod2.png)
+![Img-Usuario-2](https://github.com/joaoygo/Clone-WhatsApp/blob/main/public/mod3.png)
 
 
 
